@@ -1,0 +1,6 @@
+node_modules/
+.next/
+data/explanations/
+data/thumbs/
+data/pdfs/
+.env*.local
