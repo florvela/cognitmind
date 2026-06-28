@@ -1,4 +1,4 @@
-/* NeuralData — replicates the `style-hover` pseudo-class behavior from the design
+/* CognitMind — replicates the `style-hover` pseudo-class behavior from the design
    runtime as plain DOM hover handlers, so the landing matches the .dc design 1:1. */
 (function () {
   function parse(css) {
