@@ -1,15 +1,14 @@
-/* NeuralData — shared site behavior across pages.
+/* CognitMind — shared site behavior across pages.
    Exposes window.NDSite = { EN, initPage }. Loaded as a classic script in each page's <helmet>. */
 (function () {
   var EN = {
-    'nav.home':'Home','nav.services':'Services','nav.learn':'Learn','nav.company':'Company','nav.cta':'Book a call',
+    'nav.home':'Home','nav.services':'Services','nav.learn':'Learn','nav.company':'Company','nav.cta':'Book a free call',
     'hero.kicker':'AI, explained and engineered.',
     'hero.h1a':'We take AI from ','hero.h1b':'experiment','hero.h1c':' to ','hero.h1d':'production.',
-    'hero.sub':'Models that work — secure, maintainable, in production. No hype.',
-    'hero.cta1':'Work with us','hero.cta2':'Learn AI','hero.scroll':'SCROLL',
+    'hero.cta1':'Book a free call','hero.cta2':'Learn AI',
     'cred.kicker':'Experience built at',
     'home.teaser.kicker':'What we do',
-    'home.teaser.heading':'From the experiment to production — and the team that explains it.',
+    'home.teaser.heading':'From the experiment to production.',
     'home.teaser.s.title':'Consulting','home.teaser.s.desc':'A ladder of services from a Discovery Sprint to full deployment.','home.teaser.s.cta':'See services →',
     'home.teaser.l.title':'Learn','home.teaser.l.desc':'No-hype explainers: papers and videos to actually understand AI.','home.teaser.l.cta':'Explore Learn →',
     'home.teaser.c.title':'Company','home.teaser.c.desc':'Nearly a decade building AI, vision, backend and data.','home.teaser.c.cta':'About us →',
@@ -37,18 +36,18 @@
     'learn.p1.tag':'Community app','learn.p1.title':'Paper Explainer',
     'learn.p1.desc':'Explore arXiv papers with plain-language explanations: context → problem → what they did → why it matters.',
     'learn.p1.cta':'Open Paper Explainer →',
-    'learn.p2.tag':'YouTube','learn.p2.title':'NeuralData explains',
+    'learn.p2.tag':'YouTube','learn.p2.title':'CognitMind explains',
     'learn.p2.desc':'Short videos with the intuition behind each topic, in Spanish. Simple, but rigorous.',
     'learn.p2.cta':'Watch the channel →',
     'learn.soon':'Coming soon','learn.soon2':'Coming soon',
     'company.kicker':'The company','company.heading':'We study the problem before promising anything.',
-    'company.body':'NeuralData is an AI and data consultancy founded by Florencia Vela — a Computer Engineer (honors) with an AI specialization from UBA (9.2/10). Nearly a decade building AI, computer vision, backend and data: from fraud detection at MercadoLibre to leading AI teams. That is why every project starts with a Discovery. No hype.',
+    'company.body':'CognitMind is an AI and data consultancy founded by Florencia Vela — a Computer Engineer (honors) with an AI specialization from UBA (9.2/10). Nearly a decade building AI, computer vision, backend and data: from fraud detection at MercadoLibre to leading AI teams. That is why every project starts with a Discovery. No hype.',
     'company.linkedin':'Florencia on LinkedIn →',
     'st1.label':'AI Specialization · UBA','st2.label':'years in AI & data',
     'st3.label':'inference optimized · YOLO','st4.label':'proven technical leadership',
     'contact.kicker':'Contact','contact.heading':'Got a problem AI could solve?',
     'contact.body':"Let's start with a Discovery: we study your case and return a clear plan, no strings attached.",
-    'contact.cta':'Book a call',
+    'contact.cta':'Book a free call',
     'footer.tagline':'AI, explained and engineered.'
   };
 

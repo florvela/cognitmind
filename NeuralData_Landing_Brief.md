@@ -1,9 +1,9 @@
-# NeuralData — Contenido y estrategia de la landing
+# CognitMind — Contenido y estrategia de la landing
 
 > El diseño visual y la maquetación los define Claude design. Este documento aporta solo el **contenido, los datos y la estrategia** que la página debe comunicar.
 
 ## Qué es
-La web de **NeuralData**, una consultora de Inteligencia Artificial + datos para clientes internacionales. Es una sola página que cumple dos funciones a la vez: **vender servicios de consultoría** y **ser la puerta a la comunidad de divulgación** (Paper Explainer + canal de YouTube). Una web, dos públicos: empresas que quieren contratar y curiosos/técnicos que quieren aprender IA.
+La web de **CognitMind**, una consultora de Inteligencia Artificial + datos para clientes internacionales. Es una sola página que cumple dos funciones a la vez: **vender servicios de consultoría** y **ser la puerta a la comunidad de divulgación** (Paper Explainer + canal de YouTube). Una web, dos públicos: empresas que quieren contratar y curiosos/técnicos que quieren aprender IA.
 
 ## Posicionamiento y tono
 - Marca: **"AI, explained and engineered."** Eje = claridad + rigor técnico, "sin humo".
@@ -37,7 +37,7 @@ Machine Learning de extremo a extremo · Computer Vision (detección, seguimient
 
 **Comunidad (Learn)**
 - Paper Explainer: explora papers de arXiv con explicaciones en lenguaje simple (contexto → problema → qué hicieron → por qué importa).
-- NeuralData explica (YouTube): videos cortos con la intuición de cada tema, en español, simples pero con rigor.
+- CognitMind explica (YouTube): videos cortos con la intuición de cada tema, en español, simples pero con rigor.
 
 **Sobre mí (Florencia Vela)**
 Ingeniera Informática (honores) + Especialización en IA de la UBA (9.2/10). ~9 años en IA, visión por computadora, backend y seguridad — de detección de fraude en MercadoLibre a Head of AI de un SIEM. Forma de trabajar: estudia el problema a fondo antes de prometer nada; cada proyecto empieza con un Discovery. Sin humo. Enlace a LinkedIn: https://www.linkedin.com/in/florvela/

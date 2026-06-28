@@ -1,6 +1,6 @@
-# NeuralData — Estrategia de consultora y comunidad
+# CognitMind — Estrategia de consultora y comunidad
 
-> Plan para lanzar **NeuralData**: una consultora de IA + datos para clientes internacionales (USD), con una comunidad de divulgación (YouTube + Paper Explainer) que primero genera autoridad y leads, y después se convierte en línea de ingreso propia.
+> Plan para lanzar **CognitMind**: una consultora de IA + datos para clientes internacionales (USD), con una comunidad de divulgación (YouTube + Paper Explainer) que primero genera autoridad y leads, y después se convierte en línea de ingreso propia.
 
 Decisiones de base (definidas con Flor):
 - **Mercado:** clientes internacionales, facturación en USD.
@@ -12,7 +12,7 @@ Decisiones de base (definidas con Flor):
 ## 1. Posicionamiento y marca
 
 **Una línea (elevator pitch):**
-> NeuralData ayuda a empresas a llevar la IA del experimento a producción — modelos que funcionan, seguros y mantenibles — sin humo.
+> CognitMind ayuda a empresas a llevar la IA del experimento a producción — modelos que funcionan, seguros y mantenibles — sin humo.
 
 **Tagline corto:** *"AI, explained and engineered."* (une las dos patas: divulgación + ingeniería.)
 
@@ -88,10 +88,10 @@ La idea de unificar todo es correcta y poderosa. Funciona como un **volante de i
    Paper Explainer  ◄──  Casos y aprendizajes  ◄──  Proyectos pagos
 ```
 
-### Arquitectura del sitio neuraldata (una sola web, dos puertas)
+### Arquitectura del sitio cognitmind (una sola web, dos puertas)
 
 ```
-neuraldata.[com]
+cognitmind.[com]
 ├── Home              → pitch + prueba de credibilidad + dos CTAs:
 │                       "Trabajá con nosotros" / "Aprendé IA"
 ├── Servicios         → la escalera de servicios (sección 2) + casos
@@ -103,15 +103,15 @@ neuraldata.[com]
 └── Contacto          → formulario de Discovery + agenda de llamada
 ```
 
-El **Paper Explainer** ya tiene el tono exacto de la marca ("más Quanta Magazine que paper académico"). Pasa de ser un proyecto suelto a ser **la sección "Learn" de NeuralData**: la prueba viva de que explicás IA mejor que nadie. Tareas para integrarlo: rebrandear con la identidad de NeuralData (hoy usa tema oscuro tipo GitHub), cambiar el backend de explicaciones de Ollama local a una API (Claude/OpenAI) para que funcione en producción sin tu máquina prendida, y enlazarlo desde la home.
+El **Paper Explainer** ya tiene el tono exacto de la marca ("más Quanta Magazine que paper académico"). Pasa de ser un proyecto suelto a ser **la sección "Learn" de CognitMind**: la prueba viva de que explicás IA mejor que nadie. Tareas para integrarlo: rebrandear con la identidad de CognitMind (hoy usa tema oscuro tipo GitHub), cambiar el backend de explicaciones de Ollama local a una API (Claude/OpenAI) para que funcione en producción sin tu máquina prendida, y enlazarlo desde la home.
 
 ### Estrategia de contenido / YouTube
 
 Tu instinto es correcto: **explicación simple + intuición del problema**, en el cruce entre "2 Minute Papers" (novedad técnica accesible) y "te lo explico así nomás" (claridad total). Formato sugerido:
-- **Serie principal "NeuralData explica":** 5–10 min, un paper o concepto de IA por video, estructura del Paper Explainer (contexto → problema → qué hicieron → por qué importa). Reutilizás directamente las explicaciones que ya genera tu app como guion base.
+- **Serie principal "CognitMind explica":** 5–10 min, un paper o concepto de IA por video, estructura del Paper Explainer (contexto → problema → qué hicieron → por qué importa). Reutilizás directamente las explicaciones que ya genera tu app como guion base.
 - **Bilingüe o en español primero:** hay mucha menos divulgación de IA *con rigor* en español → nicho menos competido y tu idioma nativo. Subtítulos en inglés para alcance global.
 - **Cadencia realista:** 1 video cada 2 semanas al inicio. Consistencia > volumen.
-- Cada video termina con un CTA suave: "¿Tu empresa quiere aplicar esto? NeuralData."
+- Cada video termina con un CTA suave: "¿Tu empresa quiere aplicar esto? CognitMind."
 
 ### Fases de la comunidad
 - **Fase 1 (meses 1–6) — Autoridad/leads:** contenido gratis, crecer audiencia y portfolio. Monetización = clientes de consultoría.
@@ -140,8 +140,8 @@ Tu desfasaje es de *recuperación en frío*, no de conocimiento. La estrategia e
 ## 6. Go-to-market: primeros clientes
 
 Tenés activos para arrancar sin empezar de cero:
-1. **Tu red existente** — los emprendedores de Bolivia y excolegas (Mantika, KIU, Stenox). Avisales que abriste NeuralData y qué ofrecés. El primer cliente suele salir de la red.
-2. **LinkedIn** — actualizá el perfil a "Founder @ NeuralData | AI Consultant", y publicá los videos/explicaciones ahí. Es tu canal directo a clientes USD.
+1. **Tu red existente** — los emprendedores de Bolivia y excolegas (Mantika, KIU, Stenox). Avisales que abriste CognitMind y qué ofrecés. El primer cliente suele salir de la red.
+2. **LinkedIn** — actualizá el perfil a "Founder @ CognitMind | AI Consultant", y publicá los videos/explicaciones ahí. Es tu canal directo a clientes USD.
 3. **Contenido como imán** — cada video/explicación es un anzuelo pasivo. El que busca "alguien que entienda esto" te encuentra ya con prueba de que sabés explicarlo.
 4. **Ekoparty / comunidad de seguridad** — para el nicho premium de IA+SOC.
 5. **Caso de estudio del primer cliente** — pedí testimonio + permiso para publicar resultados. Es la prueba social que destraba los siguientes.
@@ -152,7 +152,7 @@ Tenés activos para arrancar sin empezar de cero:
 
 **Mes 1 — Fundaciones**
 - Definir acuerdo con el PM (rol, reparto).
-- Cerrar marca: logo simple, identidad visual de NeuralData.
+- Cerrar marca: logo simple, identidad visual de CognitMind.
 - Comprar dominio, armar landing con la estructura de la sección 4 (Home + Servicios + Sobre mí + Contacto).
 - Escribir la oferta de servicios y el pricing finales (base: sección 2 y 3).
 - Actualizar LinkedIn.
@@ -160,7 +160,7 @@ Tenés activos para arrancar sin empezar de cero:
 **Mes 2 — Contenido y producto**
 - Integrar y rebrandear el Paper Explainer como sección "Learn"; mover backend a API en la nube.
 - Grabar y publicar los primeros 2 videos.
-- Activar la red: mensaje a 15–20 contactos anunciando NeuralData.
+- Activar la red: mensaje a 15–20 contactos anunciando CognitMind.
 - Crear el "banco de respuestas" (Notion) y la plantilla de Discovery Sprint.
 
 **Mes 3 — Primeras ventas**
@@ -172,7 +172,7 @@ Tenés activos para arrancar sin empezar de cero:
 ---
 
 ## 8. Próximos entregables que puedo armarte
-- Copy completo y wireframe de la landing de NeuralData.
+- Copy completo y wireframe de la landing de CognitMind.
 - Rebranding e integración del Paper Explainer (cambio de tema + backend a API).
 - Plantilla del AI Discovery Sprint (documento que entregás al cliente).
 - Guion del primer video de YouTube a partir de una explicación del Paper Explainer.
